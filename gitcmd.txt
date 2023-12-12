@@ -1,0 +1,23 @@
+#  1  cd /
+    2  mkdir data
+    3  cd data/
+    4  git clone https://github.com/bhagywantanjali/test-application.git
+    5  yum install git -y
+    6  git clone https://github.com/bhagywantanjali/test-application.git
+    7  cd test-application/
+    8  ls -ltr
+    9  git log
+   10  vi index.html
+   11  git status
+   12  git commint -m "update in index.html"
+   13  git status
+   14  git commnit -m "update in index.html"
+   15  git commit -m "update in index.html"
+   16  git status
+   17  git add index.html
+   18  git commit -m "update in index.html"
+   19  git
+   20  git push origin master
+   21*
+   22  history
+
