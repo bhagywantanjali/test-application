@@ -1,0 +1,106 @@
+    1  clear
+    2  pwd
+    3  sudo apt update -y
+    5  mkdir projects
+    6  cd projects/
+    7  git clone https://github.com/shreys7/django-todo.git
+    8  cd django-todo/
+    9  ls
+   10  clear
+   11  sudo apt update -y
+   12  clear
+   13  ls
+   14  sudo pip install django
+   15  sudo pip install django -y
+   16  sudo pip install
+   17  sudo apt pip install
+   18  sudo pip
+   19  clear
+   20  pip
+   21  sudo apt install python3-pip
+   22  clear
+   23  sudo apt install django
+   24  sudo pip install dajngo
+   25  sudo pip3 install django
+   26  clear
+   27  sudo python3 manage.py  
+   28  sudo python3 manage.py  make migirations
+   29  sudo python3 manage.py  makemigrations
+   30  sudo python3 manage.py migrate
+   31  sudo python3 manage.py run server
+   32  sudo python3 manage.py runserver
+   33  clear
+   34  pip --list
+   35  pip list
+   36  sudo python3 manage.py migrate
+   37  sudo python3 manage.py  makemigrations
+   38  sudo python3 manage.py createsuperuser
+   39  sudo python3 manage.py runserver
+   40  clear
+   41  sudo python3 manage.py runserver
+   42* 
+   43  sudo python3 manage.py runserver 0.0.0.0:8000
+   44  CLEAR
+   45  clear
+   46  ;s
+   47  ls
+   48  cd todo
+   49  cd todoApp/
+   50  ls
+   51  cd view.py
+   52  ll
+   53  cat views.py 
+   54  vi  views.py 
+   55  cat settings.py 
+   56  vi settings.py 
+   57  sudo python3 manage.py runserver
+   58  ls
+   59* 
+   60  ls
+   61  sudo python3 manage.py runserver
+   62  sudo python3 manage.py runserver 0.0.0.0:8000
+   63  ls
+   64  git remote -v
+   65  clear
+   66  git remote set-url origin https://github.com/bhagywantanjali/todo-app-django.git
+   67  git remote -v
+   68  git status
+   69  git add .
+   70  git status
+   71  git branch
+   72  git commit -m "changes made by anjali"
+   73  git push origin develop
+   74  git branch
+   75  git status
+   76  git remote -v
+   77  git add .
+   78  git commit -m "changes"
+   79  git push
+   80  git confige --user
+   81  git confinge --user
+   82  git confing --user
+   83  git help
+   84  git config --list
+   85  cat ~/.gitconfig
+   86  cd ..
+   87  ls
+   88  mkdir gameoflife
+   89  ls
+   90  cd gameoflife/
+   91  ls
+   92  git clone https://github.com/wakaleo/game-of-life.git
+   93  ls
+   94  cd game-of-life/
+   95  ls
+   96  git remote -v
+   97  git remote set-url origin https://github.com/bhagywantanjali/game-of-life-app-java.git
+   98  git remote -v
+   99  git status
+  100  git add .
+  101  git commit -m "changes made me "
+  102  git status
+  103  git remote -v
+  104  branch
+  105  git branch
+  106  git push
+  107  history
